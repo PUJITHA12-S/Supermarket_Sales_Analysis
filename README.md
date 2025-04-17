@@ -24,6 +24,24 @@ This Project explores supermarket sales data to uncover key business insights us
 # DATA SOURCESpr
 The datase for this project is sourced from kaggle, a platform providing diverse datasets for data analysis and machine learning. It contains supermarket sales data, including branch , Product quantity, customer rating etc.. [Download dataset here](https://www.kaggle.com)
 
+* Invoice ID – Unique identifier for each transaction.
+* Branch – Store branch where the sale occurred (e.g., A, B, or C).
+* City – City where the branch is located (e.g., Yangon, Naypyitaw).
+* CustomerType – Type of customer: Member or Normal.
+* Gender – Gender of the customer.
+* ProductLine – Product category purchased (e.g., Health and beauty, Electronics).
+* UnitPrice – Price of a single unit of the product.
+* Quantity – Number of product units purchased.
+* Tax5% – 5% value-added tax on the transaction.
+* Total – Total amount including tax.
+* Date – Date of the transaction.
+* Time – Time of the transaction.
+* Payment – Payment method used (e.g., Cash, Credit card, Ewallet).
+* CostofGoodsSold – Base cost of the products sold.
+* GrossMarginPercentage – Gross margin percentage on the sale.
+* GrossIncome – Profit earned from the sale (same as Tax5% here).
+* Rating – Customer rating for the service (scale 1 to 10)
+
 # TOOLS 
 - EXCEL- Data Cleaning
 - SQL SERVER- Data Analysis
