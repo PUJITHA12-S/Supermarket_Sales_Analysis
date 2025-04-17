@@ -1,5 +1,5 @@
 # TITLE: SUPERMARKET SALES ANALYSIS USING Sql and Powerbi
-
+![Image Alt](https://github.com/PUJITHA12-S/Supermarket_Sales_Analysis/blob/main/Supermarket.jpg?raw=true)
 # About SuperMarket
 A supermarket is a large retail store offering a wide variety of food and household items.
 Products are organized into departments such as dairy, bakery, produce, and frozen foods.
