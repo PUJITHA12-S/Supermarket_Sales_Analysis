@@ -1,4 +1,14 @@
-# TITLE SUPERMARKET SALES ANALYSIS USING Sql and Powerbi
+# TITLE: SUPERMARKET SALES ANALYSIS USING Sql and Powerbi
+
+# About SuperMarket
+A supermarket is a large retail store offering a wide variety of food and household items.
+Products are organized into departments such as dairy, bakery, produce, and frozen foods.
+It provides a one-stop shopping experience for customers seeking convenience and variety.
+Supermarkets use data to manage inventory, track sales, and understand customer preferences.
+They often implement loyalty programs and promotional strategies to boost customer retention.
+Data analysis in supermarkets helps improve decision-making, pricing, and product placement.
+
+
 # TABLE CONTENT
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
